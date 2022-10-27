@@ -1,0 +1,4 @@
+ps aux
+ls -l
+quit
+

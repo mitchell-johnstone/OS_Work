@@ -1,0 +1,5 @@
+ls -l -a
+echo hi
+echo bye
+quit
+
